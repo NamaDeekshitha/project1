@@ -25,15 +25,15 @@ PRIMARY KEY (product_id)
 
 );
 
-INSERT INTO product VALUES(4,'GAMING LAPTOP','Electrinics',75000,'2020-01-02','2020-06-02');
+INSERT INTO product VALUES(4,'GAMING LAPTOP','Electronics',75000,'2020-01-02','2020-06-02');
 
-INSERT INTO product VALUES(5,'star war toy','Electrinics',75000,'2020-01-02','2020-06-02');
+INSERT INTO product VALUES(5,'star war toy','Electronics',75000,'2020-01-02','2020-06-02');
 
 INSERT INTO product VALUES(6,'dark fantasy','Grocery',75000,'2020-01-02','2020-06-02');
 
-INSERT INTO product VALUES(7,'i phone','Electrinics',75000,'2020-01-02','2020-06-02');
+INSERT INTO product VALUES(7,'i phone','Electronics',75000,'2020-01-02','2020-06-02');
 
-INSERT INTO product VALUES(8,'one plus 8','Electrinics',75000,'2020-01-02','2020-06-02');
+INSERT INTO product VALUES(8,'one plus 8','Electronics',75000,'2020-01-02','2020-06-02');
 
 
 create table login(
@@ -41,7 +41,7 @@ uname varchar(20),
 pass varchar(20));
 
 
-insert into login values('nsrt','Nsrt@123');
+insert into login values('deek','deek@123');
 
 
 
